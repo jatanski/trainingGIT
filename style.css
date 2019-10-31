@@ -1,3 +1,10 @@
 body {
   height: 100vh;
 }
+
+.test {
+  font-size: 3em;
+}
+.exam {
+  font-size: 2em;
+}
